@@ -1,0 +1,47 @@
+body{
+background-image: url("bg.jpg");
+background-size: cover;
+font-family: Arial;
+text-align:left;
+}
+
+.container{
+background:none;
+width: 500px;
+margin: auto;
+padding: 20px;
+border-radius: 10px;
+}
+
+.profile{
+width:150px;
+border-radius:50%;
+}
+
+h1{
+color: #333;
+}
+
+h2{
+color:#444;
+}
+
+p{
+color:#555;
+}
+
+ul{
+text-align:left;
+}
+
+table{
+margin:auto;
+margin-top:10px;
+}
+
+.goal{
+background:none;
+padding:10px;
+margin-top:20px;
+border-radius:8px;
+}
